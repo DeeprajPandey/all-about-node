@@ -1,0 +1,12 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "commonjs": "node commonjs/main.js",
+    "es6": "node --experimental-modules es6/main.mjs"
+  },
+  "author": "",
+  "license": "ISC"
+}
